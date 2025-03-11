@@ -4,5 +4,5 @@
     "java.project.referencedLibraries": [
         "lib/**/*.jar"
     ],
-    "workbench.tree.indent": 15
+    "workbench.tree.indent": 18
 }
