@@ -30,7 +30,7 @@ public class Aluno {
     }
 
     public int informaMatricula(Scanner scan) {
-        return scan.nextInt();
+        return scan.nextInt(); 
     }
 
     public char sexoAluno(Scanner scan) {
