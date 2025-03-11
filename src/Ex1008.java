@@ -4,16 +4,16 @@
     public static void main(String[] args) {
         Scanner scan = new Scanner(System.in);
         
-        int numero = scan.nextInt();
-        int horas = scan.nextInt();
-        double salario = scan.nextDouble();
+        int number = scan.nextInt();
+        int hours = scan.nextInt();
+        double salary = scan.nextDouble();
         
-        double total = horas * salario;
+        double total = hours * salary;
         
-        System.out.println("Numero = " + numero);
-        System.out.printf("Salario = R$ %.2f\n", total);
+        System.out.println("NUMBER = " + number);
+        System.out.printf("SALARY = U$ %.2f\n", total);
         
         scan.close();
     }
     
-}
+ }
